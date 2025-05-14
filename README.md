@@ -24,5 +24,5 @@ beginners looking to improve their Python skills through hands-on game developme
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/simple-python-games.git
+   git clone https://github.com/SimeonChifligarov/simple-python-games.git
    cd simple-python-games/games
